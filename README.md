@@ -1,6 +1,6 @@
 ### Hi there 📝
 
-Eu sou Thiago Fonseca, sou Programador Front End. Atualmente estou praticando e criando projetos com:
+Eu sou Thiago Fonseca, sou Programador Front End rumo ao FullStack. Atualmente estou praticando e criando projetos com:
 <br>
 <br>
 
